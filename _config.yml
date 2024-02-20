@@ -22,13 +22,13 @@ repository               : "frustea/frustea.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Ali"
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Earth, San Francisco, CA"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hiairno@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
