@@ -12,7 +12,7 @@ redirect_from:
 
 * I am a Physics Ph.D. student at the Joint Quantum Institute and QuICS, at the University of Maryland.
 
-* My research advisors during my studies were Mohammad Hafezi, Michael Gullans, and Jacob Taylor.
+* My research advisors during my studies were Mohammad Hafezi, Michael Gullans, Norbert Linke and Jacob Taylor.
 
 * My research interests lie at the intersection of machine learning and physics, particularly in quantum learning theory, quantum-enhanced machine learning, applications of classical machine learning in many-body physics, and analog quantum simulation.
 
